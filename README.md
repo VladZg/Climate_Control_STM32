@@ -1,4 +1,4 @@
-# Climate control system based on STM32
+# Ping Pong game based on STM32
 
 ## Authors
 - [Volozhinov Dmitriy](https://github.com/Dmitriy2442)
