@@ -1,4 +1,4 @@
-# Ping Pong game based on STM32
+# Ping Pong game based on Arduino UNO MK
 
 ## Authors
 - [Volozhinov Dmitriy](https://github.com/Dmitriy2442)
